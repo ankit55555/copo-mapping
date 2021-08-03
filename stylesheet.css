@@ -1,0 +1,52 @@
+h3{
+  background : teal;
+ }
+ .copo{
+    
+    border-collapse: collapse;
+    width:99%;
+    font-size: 18px;
+    font-style:italic ;
+    text-align: center; 
+    margin: 0 auto;
+
+
+    
+  }
+  th{
+      height:20px;
+      width:30px;
+      font-family: "Trebuchet MS", Arial;
+      background-color:   teal   ;
+      color: white;
+  }
+  td{
+      height:20px;
+      width:30px;
+  }
+  input{
+      height:20px;
+      width:100px;
+      border:1px solid #d5dbd9;
+    }
+  body{
+    background: #f1f1f1;
+    padding: 0 10px;
+  }
+ .wrapper{
+    max-width: 650px;
+    width: 100%;
+    background: #fff;
+    margin: 20px auto;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.125);
+    padding: 30px;
+  }
+  .padded{
+    padding:500px;
+  }
+  .t{
+    font-family : sans-serif;
+    text-align:center
+    font-size:25px;
+    color : green;
+  }
